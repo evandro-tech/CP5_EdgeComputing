@@ -5,7 +5,7 @@ Este projeto consiste no desenvolvimento de um sistema de monitoramento IoT para
 
 ## 👥 Integrantes
 - Evandro Marcondes - RM572473
-- Pedro Marques - RMRM569307
+- Pedro Marques - RM569307
 - Raphael Oliveira - RM571065
 - Renan Queiroz - RM569077
 
