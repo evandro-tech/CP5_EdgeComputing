@@ -20,7 +20,7 @@ Este projeto consiste no desenvolvimento de um sistema de monitoramento IoT para
 
 ### 1. Acesso à Simulação (Wokwi)
 1. Acesse o projeto oficial no simulador através do link:  
-   👉 **[Wokwi - Vinheria Agnello CP5](https://wokwi.com/projects/478446407779040257)**
+   👉 **[Simulação_Wokwi](https://wokwi.com/projects/478446407779040257)**
 2. O código-fonte já se encontra configurado com as credenciais de rede (`Wokwi-GUEST`) e o broker MQTT do servidor.
 
 ### 2. Configuração do Servidor e Tópicos MQTT
