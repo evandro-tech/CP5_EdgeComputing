@@ -37,9 +37,9 @@ Para verificar se os dados coletados pelo ESP32 estão armazenados corretamente 
   * `fiware-servicepath`: `/`
 
 ### 4. Utilização do Aplicativo MyMQTT (Leitura e Escrita)
-1. Baixe e instale o aplicativo **MyMQTT** em um dispositivo Android.
+1. Baixe e instale o aplicativo **MyMQTT**.
 2. Configure a conexão com o broker informando o IP `3.135.234.101` na porta `1883`.
 3. **Leitura (Subscribe):** Inscreva-se no tópico `/TEF/device002/attrs` para visualizar as leituras dos sensores em tempo real.
-4. **Escrita / Comandos (Publish):** No tópico `/TEF/device002/cmd`, envie os seguintes payloads para controlar o atuador (LED/Lâmpada):
+4. **Escrita / Comandos (Publish):** No tópico `/TEF/device002/cmd`, para controlar LED envie:
    * Ligar: `device002@on|`
    * Desligar: `device002@off|`
