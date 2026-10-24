@@ -3,7 +3,7 @@
 ## 📌 Descrição do Projeto
 Este projeto consiste no desenvolvimento de um sistema de monitoramento IoT para a Vinheria Agnello utilizando ESP32 no simulador Wokwi, integrando sensores de temperatura/umidade (DHT22) e luminosidade (LDR) com o ecossistema FIWARE através do protocolo MQTT (UltraLight).
 
-## 👥 Integrantes
+## 👥 Integrantes 1ESPV
 - Evandro Marcondes - RM572473
 - Pedro Marques - RM569307
 - Raphael Oliveira - RM571065
